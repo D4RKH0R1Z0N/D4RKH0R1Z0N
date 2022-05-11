@@ -4,6 +4,8 @@
 ![D4RKH0R1Z0N's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4RKH0R1Z0N&show_icons=true&include_all_commits=true&theme=react&hide_border=true)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=D4RKH0R1Z0N&show_icons=true&theme=react&hide_border=true)
   
+![Rank](https://github-profile-trophy.vercel.app/?username=D4RKH0R1Z0N&theme=tokyonight&no-frame=true)
+
 ![Profile View Counter](https://komarev.com/ghpvc/?username=D4RKH0R1Z0N&style=for-the-badge)
   
 </div>
