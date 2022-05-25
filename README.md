@@ -7,7 +7,7 @@
 
 🌱 I’m currently learning **C++, C and C#**
 
-👨‍💻 All of my projects are available at [d4rkh0r1z0n-projects.herokuapp.com](d4rkh0r1z0n-projects.herokuapp.com)
+👨‍💻 All of my projects are available at [d4rkh0r1z0n-projects.herokuapp.com](https://d4rkh0r1z0n-projects.herokuapp.com)
 
 </div>
 <h3 align="center">Connect with me:</h3>
