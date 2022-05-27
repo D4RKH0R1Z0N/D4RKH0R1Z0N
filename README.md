@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm D4RKH0R1Z0N</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=d4rkh0r1z0n&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="d4rkh0r1z0n" /> </p>
 
 <div align="center">
   
 🔭 I’m currently working on [gphish](https://github.com/D4RKH0R1Z0N/gphish)
-
-🌱 I’m currently learning **C++, C and C#**
 
 👨‍💻 All of my projects are available at [d4rkh0r1z0n-projects.herokuapp.com](https://d4rkh0r1z0n-projects.herokuapp.com)
 
