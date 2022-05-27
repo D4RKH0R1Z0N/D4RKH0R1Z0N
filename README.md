@@ -10,7 +10,6 @@
 👨‍💻 All of my projects are available at [d4rkh0r1z0n-projects.herokuapp.com](https://d4rkh0r1z0n-projects.herokuapp.com)
 
 </div>
-<h3 align="center">Connect with me:</h3>
 <p align="center">
 </p>
 
