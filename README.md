@@ -1,4 +1,6 @@
-<h1 align="center">Writing the book "The Manipulator's Cookbook"</h1>
+<h1 align="center">My book is Out! and It's completely FREE!</h1>
+
+<h3 align="center">Check out the full book for free at https://github.com/D4RKH0R1Z0N/The_Manipulators_Cookbook</h3>
 
 <div align="center">
 
