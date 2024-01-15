@@ -1,4 +1,10 @@
-<h1 align="center">My book is Out! and It's completely FREE!</h1>
+<h1 align="center">Writing the book "The Dark Psychology Manual"</h1>
+
+<div align="center">
+
+Instagram - [Instagram](https://instagram.com/D4RKH0R1Z0N)
+Reddit - [u/d4rkh0r1z0n_original](https://reddit.com/u/d4rkh0r1z0n_original)
+</div>
 
 <h3 align="center">Check out the full book for free at https://github.com/D4RKH0R1Z0N/The_Manipulators_Cookbook</h3>
 
