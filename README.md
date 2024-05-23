@@ -1,4 +1,4 @@
-<h1 align="center">Writing the book "The Dark Psychology Manual"</h1>
+<h1 align="center">Bored</h1>
 
 <div align="center">
 
