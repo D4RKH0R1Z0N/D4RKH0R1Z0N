@@ -6,7 +6,7 @@ Instagram - [Instagram](https://instagram.com/D4RKH0R1Z0N)
 Reddit - [u/d4rkh0r1z0n_original](https://reddit.com/u/d4rkh0r1z0n_original)
 </div>
 
-<h3 align="center">Check out the full book for free at https://github.com/D4RKH0R1Z0N/The_Manipulators_Cookbook</h3>
+# The Book has been removed as it is too manipulative, and powerful and I don't want it to reach the hands of bad people
 
 <div align="center">
 
